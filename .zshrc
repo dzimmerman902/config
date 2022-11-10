@@ -1,6 +1,6 @@
 export LANG=en_US.UTF-8
 export NVM_DIR="$HOME/.nvm"
-export PATH=$HOME/.cargo/bin:$HOME/.local/bin:$PATH
+export PATH=$HOME/bin:$HOME/.cargo/bin:$HOME/.local/bin:$PATH
 export ZSH="$HOME/.oh-my-zsh"
 
 ZSH_THEME="tjkirch"
